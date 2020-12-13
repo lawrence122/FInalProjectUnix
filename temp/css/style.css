@@ -1,0 +1,25 @@
+.card {
+    margin-top: 20px;
+    width: 250px;
+    margin-bottom: 40px;
+}
+
+.searchInput {
+    margin-left: 560px;
+    width: 190px;
+}
+
+#cartHeader {
+    /* max-width: 200px; */
+    /* width: 200px; */
+    display: inline-flex;
+}
+
+.gameID,
+.gameTitle,
+.gamePrice,
+.gameCategory,
+.gameDetails,
+.gameRemove {
+    width: 180px;
+}

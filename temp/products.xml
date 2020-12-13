@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+    <category>
+        <id>100</id>
+        <name>Laptop</name>
+        <description>A  small, portable personal computer (PC), typically having a thin LCD or LED computer screen mounted on the inside of the upper lid of the clamshell and an alphanumeric keyboard on the inside of the lower lid.</description>
+        <items>
+            <item>
+                <id>12</id>
+                <title>HP Pavilion 15-cs3023ca Laptop</title>
+                <description>Express yourself like never before with this extra slim and stylish powerhouse built to make it through even the longest day.</description>
+                <brand>HP</brand>
+                <unitPrice>1200.79</unitPrice>
+                <quantityInStock>4</quantityInStock>
+                <make>HP</make>
+                <thumbnail>images/HP_Laptop.jpg</thumbnail>
+                <categoryName>Laptop</categoryName>
+            </item>
+            <item>
+                <id>16</id>
+                <title>Lenovo Legion Y540 15 81SX00R6CF Bilingual Gaming Laptop, i5-9300H</title>
+                <description>Features 9th Gen processing for ultimate power and speed. Full size white backlit keyboard with less than 1 ms response time</description>
+                <brand>Lenovo</brand>
+                <unitPrice>1350.79</unitPrice>
+                <quantityInStock>2</quantityInStock>
+                <make>Lenovo</make>
+                <thumbnail>images/LenovoLaptop.jpg</thumbnail>
+                <categoryName>Laptop</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>101</id>
+        <name>Desktop</name>
+        <description>A personal computing device designed to fit on top of a typical office desk. It houses the physical hardware that makes a computer run and connects to input devices such as the monitor, keyboard and mouse users interact with.</description>
+        <items>
+            <item>
+                <id>8</id>
+                <title>ASUS Vivo V222FAK-C53P-CA English All-in-One Desktop, i5-10210U</title>
+                <description>Asus Vivo AIO all-in-one desktop PC, 23.8â€� Full HD touch display,Intel Core i5 processor, 8GB DDR4 RAM, 1TB HDD +128GB SSD, Windows 10,V241FA-DS501T.</description>
+                <brand>Asus</brand>
+                <unitPrice>1035.49</unitPrice>
+                <quantityInStock>4</quantityInStock>
+                <make>Asus</make>
+                <thumbnail>images/AsusDesktop.jpg</thumbnail>
+                <categoryName>Desktop</categoryName>
+            </item>
+            <item>
+                <id>19</id>
+                <title>HP Pavilion TG01-1509p Gaming Desktop Bundle, i5-10400F</title>
+                <description>Game on your own terms with the HP Pavilion Gaming Desktop. This gaming tower has all the space you need to easily expand or upgrade, letting you keep up with the games of tomorrow. Personalize your gaming pc in the OMEN Command Center as you manage your machineâ€™s key metrics and customize the chassis lighting. Intelâ€™s powerful 10th Generation processor with a Max Turbo Frequency of 4.30 GHz delivers smooth and outstanding 4k visuals. Your gaming and streaming will never be the same because your HP desktop boasts an NVIDIAâ“‡ GeForceâ“‡ GTX 1650 graphics card and 4 GB GDDR5 dedicated memory. PCIeÂ® NVMeâ„¢ SSD Storage makes your gaming pc desktop 10x faster than a traditional hard drive while 8 GB DDR4 memory gives a boost to your browsing and multitasking.</description>
+                <brand>HP</brand>
+                <unitPrice>1145.49</unitPrice>
+                <quantityInStock>3</quantityInStock>
+                <make>HP</make>
+                <thumbnail>images/HP_Desktop.jpg</thumbnail>
+                <categoryName>Desktop</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>102</id>
+        <name>Books</name>
+        <description>A medium for recording information in the form of writing or images, typically composed of many pages bound together and protected by a cover.</description>
+        <items>
+            <item>
+                <id>5</id>
+                <title>Harry Potter: The Complete Collection 7-book Box Set</title>
+                <description>A beautiful boxed set containing all seven Harry Potter novels in paperback. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON â€¦</description>
+                <brand>J.K. Rowling</brand>
+                <unitPrice>62.99</unitPrice>
+                <quantityInStock>6</quantityInStock>
+                <make>Unbranded</make>
+                <thumbnail>images/HarryPotterBookSet.jpg</thumbnail>
+                <categoryName>Books</categoryName>
+            </item>
+            <item>
+                <id>18</id>
+                <title>Chronicles of Narnia 8-book Box Set</title>
+                <description>This paperback box set of C. S. Lewis's classic fantasy series The Chronicles of Narnia includes cover art by two time Caldecott Medal-winning illustrator Chris van Allsburg and the complete black-and-white original interior art by Pauline Baynes. For over sixty years, readers of all ages have been enchanted by the magical realms, the epic battles between good and evil, and the unforgettable creatures of Narnia. This box set includes all seven titles in The Chronicles of Narnia</description>
+                <brand>C.S. Lewis</brand>
+                <unitPrice>27</unitPrice>
+                <quantityInStock>3</quantityInStock>
+                <make>Unbranded</make>
+                <thumbnail>images/NarniaBookSet.jpg</thumbnail>
+                <categoryName>Books</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>103</id>
+        <name>Phone</name>
+        <description>A small portable radio telephone. It can be used to communicate over long distances without wires.</description>
+        <items>
+            <item>
+                <id>2</id>
+                <title>Galaxy S20 FE</title>
+                <description>Take stunning photos, play games, and do a lot more with the Samsung Galaxy S20 FE 5G. Its gorgeous 6.5 inch Infinity-O Display, Snapdragon 865 processor, and 120Hz refresh rate deliver the smooth performance you need for gaming, entertainment, and much more. Get pro-quality shots with triple rear cameras and a 32MP front camera, as well as 30x Space Zoom, Single Take, and other features.</description>
+                <brand>Samsung</brand>
+                <unitPrice>949.55</unitPrice>
+                <quantityInStock>5</quantityInStock>
+                <make>Samsung Electronics</make>
+                <thumbnail>images/SamsungS20FE.jpg</thumbnail>
+                <categoryName>Phone</categoryName>
+            </item>
+            <item>
+                <id>4</id>
+                <title>iPhone 12</title>
+                <description>The iPhone 12 features the powerful A14 Bionic chip, 5G to download and stream high-quality video, a bright 6.1 inch Super Retina XDR display, and Ceramic Shield for better drop performance. Other features include incredible low-light photography with Night mode on both cameras, cinema-grade Dolby Vision, new MagSafe accessories for wireless charging, and much more.</description>
+                <brand>Apple</brand>
+                <unitPrice>979</unitPrice>
+                <quantityInStock>5</quantityInStock>
+                <make>Hon Hai Precision Industry Co., Ltd.</make>
+                <thumbnail>images/iPhone12.png</thumbnail>
+                <categoryName>Phone</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>104</id>
+        <name>Earphone</name>
+        <description>A small piece of equipment which you wear over or inside your ears so that you can listen to music, the radio, or your phone without anyone else hearing.</description>
+        <items>
+            <item>
+                <id>3</id>
+                <title>Airpods with Charging Case</title>
+                <description>The new AirPods -- complete with Wireless Charging Case -- deliver the wireless headphone experience, reimagined. Just pull them out of the case and theyâ€™re ready to use with your iPhone, Apple Watch, iPad or Mac.</description>
+                <brand>Apple</brand>
+                <unitPrice>299.95</unitPrice>
+                <quantityInStock>20</quantityInStock>
+                <make>Inventec</make>
+                <thumbnail>images/Airpod.jpg</thumbnail>
+                <categoryName>Earphone</categoryName>
+            </item>
+            <item>
+                <id>13</id>
+                <title>Yamaha TW-E3 True Wireless Bluetooth Earphones</title>
+                <description>The TW-E3 BluetoothÂ® earphones equipped with Yamaha's original Listening Care that optimizes sound balance and reduces strain on the ears. A simple design with musical instruments as the motif, and a sound quality that allows you to hear each note clearly.</description>
+                <brand>Yamaha</brand>
+                <unitPrice>99.25</unitPrice>
+                <quantityInStock>30</quantityInStock>
+                <make>YAMAHA</make>
+                <thumbnail>images/YamahaEarphone.jpg</thumbnail>
+                <categoryName>Earphone</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>105</id>
+        <name>Cameras</name>
+        <description>An optical instrument used to record images. At their most basic, cameras are sealed boxes (the camera body) with a small hole (the aperture) that allow light in to capture an image on a light-sensitive surface.</description>
+        <items>
+            <item>
+                <id>1</id>
+                <title>Garmin Dash Cam 56</title>
+                <description>The Garmin HD Dash Cam is perfect to get an expanded view of the road while driving. It features a 1440p resolution and 140-degree field of view to capture more details on the road with excellent picture quality in all lighting conditions.</description>
+                <brand>Garmin</brand>
+                <unitPrice>250</unitPrice>
+                <quantityInStock>15</quantityInStock>
+                <make>Garmin</make>
+                <thumbnail>images/GarminDashCam.jpg</thumbnail>
+                <categoryName>Cameras</categoryName>
+            </item>
+            <item>
+                <id>6</id>
+                <title>Canon EOS Rebel SL3 Digital SLR Camera with 18-55MM IS STM Lens</title>
+                <description>Whether youâ€™re a first time SLR user, an aspiring photo enthusiast, or someone Looking to capture those amazing family moments, The Canon EOS Rebel SL3 can be the perfect companion. Itâ€™s the smallest and lightest EOS DSLR camera to date*, and is equipped with 4K recording capability, Canonâ€™s dual pixel CMOS AF, and a Vari-angle LCD for selfies and fun angles. Its 24.1 Megapixel (APS-C) CMOS sensor combines with the powerful DIGIC 8 processor for amazing performance and results, and the EOS Rebel SL3 even lets you Channel your creativity with options like 4K time-lapse movies and creative Assist. Wherever you are and wherever you go, The EOS Rebel SL3 camera makes it simple to capture stunning photos and videos to view and share.</description>
+                <brand>Canon</brand>
+                <unitPrice>830.24</unitPrice>
+                <quantityInStock>10</quantityInStock>
+                <make>Canon Canada</make>
+                <thumbnail>images/CanonDSLRCamera.jpg</thumbnail>
+                <categoryName>Cameras</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>106</id>
+        <name>TV</name>
+        <description>A telecommunication medium used for transmitting moving images in monochrome (black and white), or in color, and in two or three dimensions and sound.</description>
+        <items>
+            <item>
+                <id>10</id>
+                <title>Sony 43-in. 4K HDR Android Smart TV XBR43X800H</title>
+                <description>Upgrade your home entertainment with this Sony 4K HDR SmartAndroid TV. Its Ultra HD LED display, powered by the 4K HDR Processor X1, delivers lifelike visuals, while TRILUMINOS Display technology reproduces precise and natural colours. Access loads of movies, shows,and apps with Android TV, and control your smart home and more with your voice via Google Assistant.</description>
+                <brand>Sony</brand>
+                <unitPrice>657</unitPrice>
+                <quantityInStock>20</quantityInStock>
+                <make>Sony</make>
+                <thumbnail>images/SonyTV.jpg</thumbnail>
+                <categoryName>TV</categoryName>
+            </item>
+            <item>
+                <id>15</id>
+                <title>LG 49-in. Smart NanoCell 4K HDR TV 49NANO85</title>
+                <description>Powered by advanced Î±7 Gen 3 processor 4K, the LG NanoCell 49 inch 4K UHD HDR LED webOS Smart TV brings cinematic entertainment right in to your living room. With an impressive LED display with 8.3 million active pixels, the AI-enabled processor automatically upscales content to 4K and offers high quality audio.</description>
+                <brand>LG</brand>
+                <unitPrice>921.99</unitPrice>
+                <quantityInStock>14</quantityInStock>
+                <make>LG</make>
+                <thumbnail>images/LG_TV.jpg</thumbnail>
+                <categoryName>TV</categoryName>
+            </item>
+        </items>
+    </category>
+    <category>
+        <id>107</id>
+        <name>Accessories</name>
+        <description>An object or device that is not essential in itself but adds to the beauty, convenience, or effectiveness of something else.</description>
+        <items>
+            <item>
+                <id>7</id>
+                <title>Samsung UV Sanitizer With Wireless Charging</title>
+                <description>Defend yourself against everyday germs with the help of the Samsung UV Sanitizer Case. This spacious case holds your smartphone (including the large Galaxy S20), earbuds, and other personal items. It features dual UV lamps to sterilise your belongings in just 10 minutes and is equipped with wireless charging so you won't lose power while you sanitise.</description>
+                <brand>Samsung</brand>
+                <unitPrice>67</unitPrice>
+                <quantityInStock>30</quantityInStock>
+                <make>CONRAL</make> <thumbnail>images/SamsungSanitizerCharger.jpg</thumbnail>
+                <categoryName>Accessories</categoryName>
+            </item>
+            <item>
+                <id>9</id>
+                <title>Atomi Qi Wireless Stand for Apple Watch</title>
+                <description>Start your day fully charged. Ideal for your nightstand, the atomi Qi Wireless Charging Dock provides 3-in-1 charging to power your essential devices while you sleep. A 7.5-watt wireless charging pad that provides the fastest wireless charging speed for iPhone, alongside a 5-watt magnetic charging module that powers your Apple Watch. An additional smart USB-A port that allows you to simultaneously charge another device like an iPad, AirPods or a power bank, to create a three-device charging station all from a single AC outlet.</description>
+                <brand>Apple</brand>
+                <unitPrice>69.99</unitPrice>
+                <quantityInStock>6</quantityInStock>
+                <make>Atomi Inc.</make>
+                <thumbnail>images/AppleStandCharger.jpg</thumbnail>
+                <categoryName>Accessories</categoryName>
+            </item>
+            <item>
+                <id>11</id>
+                <title>Azio Retro Compact Wireless Keyboard with Palm Rest</title>
+                <description>The retro compact keyboard (RCK) is the most premium mechanical keyboard created for the modern user. This centerpiece keyboard is comprisedof premium materials, a timeless appearance, and intuitive usability. With its compact form, the RCK is the ideal creative tool designed for both the traveling and stationary lifestyle.</description>
+                <brand>Azio</brand>
+                <unitPrice>230.19</unitPrice>
+                <quantityInStock>20</quantityInStock>
+                <make>Syna2</make>
+                <thumbnail>images/RetroKeyBoard.jpg</thumbnail>
+                <categoryName>Accessories</categoryName>
+            </item>
+            <item>
+                <id>14</id>
+                <title>Dragonfly Bookmark Glow in the Dark</title>
+                <description>A beautiful 3D Dragonfly Bookmark Glow in the Dark</description>
+                <brand>Papillon9</brand>
+                <unitPrice>41.18</unitPrice>
+                <quantityInStock>5</quantityInStock>
+                <make>Manon Richard</make>
+                <thumbnail>images/DragonflyBookmark.jpg</thumbnail>
+                <categoryName>Accessories</categoryName>
+            </item>
+            <item>
+                <id>17</id>
+                <title>Owl Bookmark</title>
+                <description>This owl bookmark comes with a Tibetan silver bookmark base in 1 of 4 styles, a silver toned owl charm and 1 of 37 bead designs.</description>
+                <brand>chamrphilosophy</brand>
+                <unitPrice>13.75</unitPrice>
+                <quantityInStock>2</quantityInStock>
+                <make>Nicole Skutelnik</make> <thumbnail>images/OwlBookmark.jpg</thumbnail>
+                <categoryName>Accessories</categoryName>
+            </item>
+            <item>
+                <id>20</id>
+                <title>Canon RF 35mm f/1.8 Macro IS STM Lens</title>
+                <description>This wide-angle lens features a 0.5x magnification ratio and 0.56ft./0.17m close focusing distance for creative macro photography. Its compact and lightweight design make it the perfect choice for travel or taking along on photo shoots.</description>
+                <brand>Canon</brand>
+                <unitPrice>649.99</unitPrice>
+                <quantityInStock>15</quantityInStock>
+                <make>Canon</make>
+                <thumbnail>images/CanonLens.jpg</thumbnail>
+                <categoryName>Accessories</categoryName>
+            </item>
+        </items>
+    </category>
+</products>
